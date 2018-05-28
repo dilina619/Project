@@ -1,0 +1,6 @@
+framework module Pods_Blast_stars {
+  umbrella header "Pods-Blast stars-umbrella.h"
+
+  export *
+  module * { export * }
+}
